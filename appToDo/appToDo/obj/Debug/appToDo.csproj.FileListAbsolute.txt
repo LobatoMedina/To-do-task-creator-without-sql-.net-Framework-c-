@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\appToDo\appToDo\bin\Debug\appToDo.exe.config
+C:\Users\PC\source\repos\appToDo\appToDo\bin\Debug\appToDo.exe
+C:\Users\PC\source\repos\appToDo\appToDo\bin\Debug\appToDo.pdb
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.Properties.Resources.resources
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.exe
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.pdb
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.index.resources
+C:\Users\PC\source\repos\appToDo\appToDo\obj\Debug\appToDo.Ventanas.VentanaTarea.resources
